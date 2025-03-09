@@ -24,7 +24,9 @@ body {
   max-width: 500px;
   text-align: center;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 0 auto; /* This centers the element horizontally */
 }
+
 
 .buttons {
   margin-top: 20px;
